@@ -1,0 +1,12 @@
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.deps.json
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.dll
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\bin\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\bin\Debug\net5.0\BankingLibrary.pdb
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.AssemblyReference.cache
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfoInputs.cache
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.AssemblyInfo.cs
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.dll
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\ref\BankingLibrary.dll
+C:\Users\DILIP\source\repos\JenkindCIDemo\BankingLibrary\obj\Debug\net5.0\BankingLibrary.pdb
